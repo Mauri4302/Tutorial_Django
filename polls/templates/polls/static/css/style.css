@@ -1,12 +1,16 @@
 body {
-    background-color: red;
+    background-color: #F8F8FF;
 }
 
 li a {
-color: red;
+color: black;
 }
 
 li{
-font-size: 4rem;
-
+font-size: 3rem;
 }
+
+/*#fecha {
+    margin-left: 20px;
+    position: relative;
+}*/
